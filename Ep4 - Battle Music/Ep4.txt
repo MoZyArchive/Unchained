@@ -1,40 +1,35 @@
 
           EXT. COMPANY BUILDING - NIGHT
 
-          It is dark when Eric, Taylor and Shawn pull up across the
-          street from the nondescript, and yet strangely eerie Company
-          Building. Shawn looks at the paper in his hand and checks
-          the address.
+          It is dark when Eric, Taylor and Shawn find themselves in
+          front of the nondescript yet strangely eerie Company
+          Building. Somewhere off in the distance a clock chimes 9
+          o'clock. Shawn looks at the paper in his hand and checks the
+          address.
 
                               SHAWN
                     This is it.
 
           All three of them look up at the building, imagining what
-          could possibly be inside. Somewhere off in the distance, a
-          clock chimes 9 o'clock. Shawn gets out of the car.
+          could possibly be inside.
 
                               TAYLOR
                     Wait, Shawn! Do you know what
                     you're doing?
 
                               SHAWN
-                    Not really. But I'd rather try and
-                    fail than not do anything at all.
+                    Not a clue. But I have to do
+                    something.
 
           He smiles at her a little weakly.
 
-                              SHAWN
-                    Not really liking the whole... you
-                    guys being dead thing.
-
-          He runs across the street and is halfway to the front door
-          before Taylor and Eric finally catch up to him.
-
                               ERIC
-                    We're not really liking the whole
-                    "us being dead" thing either.
+                         (to Shawn)
+                    Aw, Shawnie, I knew you cared about
+                    me.
 
-          They enter together.
+          He punches Shawn's shoulder and the three of them enter
+          together.
 
           INT. LOBBY - NIGHT
 
@@ -64,25 +59,32 @@
                     Eugh. Don't call me ma'am. Go on
                     in. He's expecting you.
 
-          She waves them towards a door off to the left side of the
-          room.
+          She waves them towards an elevator off to the left side of
+          the room.
 
                               ERIC
                     Is it okay if we go in with him?
 
                               LINDA
+                         (scoffs)
                     He's going to need all the help he
                     can get.
 
-          The trio moves towards the door uncertainly. Whatever they
-          were expecting, it wasn't this. Shawn pauses as he reaches
-          the door, looking back at Linda.
+          The trio moves towards the elevator uncertainly. Whatever
+          they were expecting, it wasn't this. Shawn pauses as he
+          reaches the door, looking back at Linda.
 
                               SHAWN
                     We just... go in?
 
           Linda is already back to playing her game and simply waves
-          them on. He looks at Eric and Taylor standing beside him.
+          them on.
+
+                              LINDA
+                    The elevator knows what floor to go
+                    to.
+
+          He looks at Eric and Taylor standing beside him.
 
                               SHAWN
                     Ready?
@@ -93,7 +95,15 @@
                               ERIC
                     Let's do it.
 
-          They enter and a bright light engulfs them.
+          They enter and the elevator doors close behind them.
+
+          INT. ELEVATOR - NIGHT
+
+          Eric, Taylor, and Shawn stand awkwardly next to each other,
+          not saying anything. Above them, elevator music trickles
+          down, a slow 'Muzak' version of the Nyan Cat song. Taylor
+          flips her hair and Shawn coughs. The elevator dings! and the
+          doors open, allowing in a bright light.
 
           INT. OFFICE - NIGHT
 
@@ -112,68 +122,16 @@
                     trial.
 
                               TROLL PRINCE
-                    Excellent. Prep the the Big Bosses.
-                    I'll be in shortly.
+                    Excellent. Everything is going
+                    according to plan.
 
           He stands up and straightens his jacket, quite pleased with
           himself.
 
-                              TROLL PRINCE
-                    Yes. Everything is going according
-                    to plan.
-
-          He is about to step away from his desk when there is another
-          faint click. He glares at the phone. A deep, gravelly voice
-          issues from it.
-
-                              TROLL KING
-                    Princess! You are this close to
-                    being demoted!
-
-                              TROLL PRINCE
-                    My liege! Um- uh- what's the
-                    occasion?
-
-                              TROLL KING
-                    Your funeral! I just looked over
-                    the numbers for last week and yours
-                    are appalling! I'm embarassed for
-                    you!
-
-                              TROLL PRINCE
-                    So sorry, your Majesty! It won't
-                    happen again! I promise!
-
-                              TROLL KING
-                    Won't happen again? It's been
-                    happening for the past month! What
-                    do you do all day? Sleep? Piss off?
-                    Read?
-
-                              TROLL PRINCE
-                    No, my liege! I'm on the job 24/7!
-
-                              TROLL KING
-                    Then I want you on the job 25/8! If
-                    you don't get these numbers up by
-                    next week, I'll fire you!
-
-                              TROLL PRINCE
-                    Yes, sir!
-
-          The Troll King hangs up before he finishes. There is a long
-          moment of silence while the Troll Prince waits to make sure
-          his boss has really hung up before he begins throwing a
-          hissy fit, kicking his desk, knocking his chair over, and
-          nearly pulling his hair out. His eyes flare up and a trickle
-          of smoke leaks from his lips. Linda comes back over the
-          intercom.
-
                               LINDA
                     Sir, the Big Bosses are ready.
 
-          The Troll Prince takes a deep breath to calm himself down
-          and smoothes his hair. When he is calm, he speaks.
+          He takes a deep breath and smoothes his hair.
 
                               TROLL PRINCE
                     I'm on my way.
@@ -181,18 +139,18 @@
           EXT. VILLAGE - DAY
 
           The three heroes blink as their eyes adjust to their
-          surroundings. They are standing in the middle of a bustling
-          medieval village square and dressed in period-appropriate
-          wear. Shawn is armed with a pair of daggers, Eric with a
-          two-handed sword, and Taylor with an intricately carved
-          wooden staff. Cheery, countryside music plays from somewhere
-          nearby.
+          surroundings. They step out of the elevator, which seems to
+          have deposited them in the middle of a bustling medieval
+          village square. Looking down at themselves, they find they
+          are dressed in period-appropriate wear. Shawn is armed with
+          a pair of daggers, Eric with a two-handed sword, and Taylor
+          with an intricately carved wooden staff. Cheery, countryside
+          music plays from somewhere nearby.
 
                               ERIC
                     Where the hell are we?
 
-          He turns around to find the door through which they entered
-          gone.
+          He turns around to find the elevator gone.
 
                               SHAWN
                          (a little excitedly)
@@ -231,27 +189,16 @@
                               ERIC
                     I would love to see you try.
 
-          They face each other, but Taylor uses her staff to break
-          them up.
-
-                              TAYLOR
-                    Boys, please. Let's stay focused,
-                    okay? I highly doubt either of you
-                    have any idea what to do with those
-                    things anyway.
-
-          The two of them back down a little reluctantly neither of
-          them puts his weapons away. All three look up as a voice
-          calls to them across the square.
-
                               VILLAGER
                     Heroes! We're so glad you've
                     arrived!
 
-          The 'heroes' in question exchange glances as the villager
-          approaches them. He is a tall, but round fellow and looks
-          somewhat familiar, but it is hard to tell exactly who is
-          underneath the giant beard he is sporting.
+          The 'heroes' in question jump and turn towards the voice
+          approaching them. Shawn and Eric back down a little
+          reluctantly, but neither puts his weapon away. The villager
+          is a tall, but round fellow and looks somewhat familiar, but
+          it is hard to tell exactly who is underneath the giant beard
+          he is sporting.
 
                               VILLAGER
                     We were beginning to believe you'd
@@ -272,10 +219,8 @@
                     You must defeat the bandits and
                     save our village!
 
-          There is a heroic trumpet blast.
-
-                              TAYLOR
-                    Did you guys hear that?
+          There is a heroic trumpet blast and Taylor makes a confused
+          face.
 
           Shawn finds himself holding a journal with a note written in
           it: "Defeat the bandits that are plaguing the village."
@@ -298,31 +243,12 @@
                               SHAWN
                     Well, maybe this is a test!
 
-          He puts the Quest journal away in the knapsack he is
-          carrying.
+          He hold the quest journal above his head, there is a little
+          toodle, and it appears in his inventory.
 
                               VILLAGER
-                    When you're ready, I can lead you
-                    to the edge of town.
-
-                              SHAWN
-                    We're ready!
-
-                              ERIC
-                    We are?
-
-          The villager is already half-way across the square and the
-          three heroes must run to catch up with him.
-
-          EXT. EDGE OF TOWN - DAY
-
-          He leads them quickly to the edge of town and points down a
-          road.
-
-                              VILLAGER
-                    Just walk down this road and the
-                    bandits will find you. Before you
-                    go though, here is a gift from me.
+                    Before you go though, here is a
+                    gift from me.
 
           He hands them three vials full of a red liquid.
 
@@ -340,12 +266,11 @@
                               VILLAGER
                     May the gods protect you!
 
-          He falls silent, but continues to stand where he is and
-          watches them. Shawn strikes out down the road, his daggers
-          drawn, with Taylor and Eric close behind. The villager
-          stares out after them with a grin on his face and when they
-          are far enough away, he rips off his beard, revealing the
-          Troll Prince underneath.
+          The intrepid trio head off towards the edge of town and the
+          villager watches them go. He smiles and pats his belt, from
+          which hangs and assortment of troll doll heads
+
+          EXT. ROAD - DAY
 
           As the heroes get farther away from the village, the cheery
           music that has been following them changes and shifts into a
@@ -367,8 +292,7 @@
           full attention.
 
                               SHAWN
-                    Huh. Didn't even notice before you
-                    pointed it out.
+                    Huh. Didn't even notice.
 
           They travel down the road for a little bit more before in
           silence, listening to the music around them when, suddenly,
@@ -470,14 +394,10 @@
                     Especially with Taylor down.
 
                               ERIC
-                    Don't worry. I have a plan. We just
-                    need to survive long enough for me
-                    to put it in action.
+                    Don't worry. I have a plan.
 
                               SHAWN
-                    How are we gonna do that? I can
-                    steal health for myself but I can't
-                    give it to you.
+                    What plan? What's the plan?
 
                               ERIC
                          (to the both of them)
@@ -490,22 +410,8 @@
           Shawn hasn't yet noticed the small, but crucial, difference
           between his and Eric's respective HUDs. Underneath Eric's
           health bar is a red bar, which has slowly been filling as he
-          has taken on damage.
-
-                              ERIC
-                    Shawn, promise me you'll take care
-                    of her!
-
-                              SHAWN
-                    I will! Of course I will! What are
-                    you planning on doing?
-
-                              TAYLOR
-                    Eric? Don't be stupid. You don't
-                    need to play the hero!
-
-          Eric doesn't respond to either of them. Instead, he taunts
-          the bandits, drawing their attacks.
+          has taken on damage. Ignoring Shawn, he taunts the bandits,
+          drawing their attacks.
 
                               ERIC
                     Hey, you dirty, ugly, son of a
